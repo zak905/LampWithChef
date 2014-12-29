@@ -1,0 +1,6 @@
+{
+  "name": "run",
+  "run_list": [
+    "LAMP"
+  ]
+}
